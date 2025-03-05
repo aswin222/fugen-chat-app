@@ -17,3 +17,12 @@ node server.js
 
 
 php artisan serve
+
+
+user 1 => testone@example.com
+
+pass 12345678
+......................................
+user 2 => testtwo@example.com
+
+pass 12345678
