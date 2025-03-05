@@ -78,7 +78,7 @@ io.on('connection', (socket) => {
 
     console.log("message id");   console.log(messageId);
     
-    if (!sender_id || !receiver_id || !message) {
+    if (!sender_id || !receiver_id) {
       log(`Error: Missing required fields - ${JSON.stringify(data)}`);
       return;
     }
