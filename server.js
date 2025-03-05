@@ -113,8 +113,9 @@ io.on('connection', (socket) => {
             sender_name: senderName,
             message: message,
             created_at: new Date(),
-            message_id: messageId
-          });
+            message_id: messageId || "no message"  
+        });
+        
         } else {
           log(`User ${receiver_id} is not online`);
         }
