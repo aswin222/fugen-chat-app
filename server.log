@@ -1,0 +1,521 @@
+[2025-03-05T10:32:25.515Z] Socket.IO server running on port 3000
+[2025-03-05T10:32:25.537Z] Connected to MySQL Database
+[2025-03-05T10:32:25.591Z] A user connected: SYgie9R30RUWT-XzAAAB
+[2025-03-05T10:32:26.502Z] A user connected: ttVYymxGF1Xhnf9NAAAD
+[2025-03-05T10:32:37.628Z] Received message: {"sender_id":7,"receiver_id":5,"message":"dfsfsfasdas"}
+[2025-03-05T10:32:37.647Z] Message saved to DB: ID 35
+[2025-03-05T10:32:37.649Z] User 5 is not online
+[2025-03-05T10:32:48.231Z] Received message: {"sender_id":5,"receiver_id":7,"message":"sadsad"}
+[2025-03-05T10:32:48.246Z] Message saved to DB: ID 36
+[2025-03-05T10:32:48.248Z] User 7 is not online
+[2025-03-05T10:36:13.242Z] Socket.IO server running on port 3000
+[2025-03-05T10:36:13.267Z] Connected to MySQL Database
+[2025-03-05T10:36:13.566Z] A user connected: h3DRqTn8Qkxw3ilAAAAC
+[2025-03-05T10:36:13.569Z] A user connected: TmGuhHROFQ6PkuQnAAAD
+[2025-03-05T10:36:18.974Z] A user connected: 9xNmoTU7-MDaiKoFAAAF
+[2025-03-05T10:36:26.453Z] A user connected: uShKFq9Alq5253d9AAAH
+[2025-03-05T10:36:34.844Z] Received message: {"sender_id":5,"receiver_id":7,"message":"Hi this is"}
+[2025-03-05T10:36:34.864Z] Message saved to DB: ID 37
+[2025-03-05T10:36:34.867Z] User 7 is not online
+[2025-03-05T10:39:37.961Z] Received message: {"sender_id":7,"receiver_id":5,"message":"hellooooo"}
+[2025-03-05T10:39:37.975Z] Message saved to DB: ID 38
+[2025-03-05T10:39:37.977Z] User 5 is not online
+[2025-03-05T10:39:55.872Z] Received message: {"sender_id":5,"receiver_id":7,"message":"ssadadaaaaaaaaaaaaaaaaaaa"}
+[2025-03-05T10:39:55.886Z] Message saved to DB: ID 39
+[2025-03-05T10:39:55.888Z] User 7 is not online
+[2025-03-05T10:40:00.469Z] Received message: {"sender_id":7,"receiver_id":5,"message":"sad"}
+[2025-03-05T10:40:00.482Z] Message saved to DB: ID 40
+[2025-03-05T10:40:00.484Z] User 5 is not online
+[2025-03-05T10:44:50.741Z] Socket.IO server running on port 3000
+[2025-03-05T10:44:50.771Z] Connected to MySQL Database
+[2025-03-05T10:44:57.079Z] User 7 joined with socket ID: FM3e8OFqjtNfmPGzAAAF
+[2025-03-05T10:45:04.425Z] User 5 joined with socket ID: 4Yz4afsO2iM1D737AAAH
+[2025-03-05T10:45:10.794Z] Received message: {"sender_id":5,"receiver_id":6,"message":"hiiii"}
+[2025-03-05T10:45:10.813Z] Message saved to DB: ID 41
+[2025-03-05T10:45:10.815Z] User 6 is not online
+[2025-03-05T10:45:21.255Z] Received message: {"sender_id":7,"receiver_id":5,"message":"sadada"}
+[2025-03-05T10:45:21.269Z] Message saved to DB: ID 42
+[2025-03-05T10:45:21.271Z] Sending message to user 5 (Socket: 4Yz4afsO2iM1D737AAAH)
+[2025-03-05T10:45:25.799Z] Received message: {"sender_id":5,"receiver_id":6,"message":"sadada"}
+[2025-03-05T10:45:25.813Z] Message saved to DB: ID 43
+[2025-03-05T10:45:25.815Z] User 6 is not online
+[2025-03-05T10:45:30.465Z] Received message: {"sender_id":7,"receiver_id":5,"message":"sadad"}
+[2025-03-05T10:45:30.479Z] Message saved to DB: ID 44
+[2025-03-05T10:45:30.481Z] Sending message to user 5 (Socket: 4Yz4afsO2iM1D737AAAH)
+[2025-03-05T10:45:50.218Z] User 5 disconnected
+[2025-03-05T10:45:50.627Z] User 5 joined with socket ID: cQknF8MWfviKoRKwAAAJ
+[2025-03-05T10:45:59.365Z] User 7 disconnected
+[2025-03-05T10:46:00.327Z] User 7 joined with socket ID: rD8xNODEkRekVLnGAAAL
+[2025-03-05T10:46:10.597Z] Received message: {"sender_id":7,"receiver_id":5,"message":"Hi ashwin how are you"}
+[2025-03-05T10:46:10.610Z] Message saved to DB: ID 45
+[2025-03-05T10:46:10.614Z] Sending message to user 5 (Socket: cQknF8MWfviKoRKwAAAJ)
+[2025-03-05T10:46:24.141Z] User 5 disconnected
+[2025-03-05T10:46:24.795Z] User 5 joined with socket ID: s4ddkVGT_8lbRd7sAAAN
+[2025-03-05T10:46:37.665Z] User 7 disconnected
+[2025-03-05T10:46:38.175Z] User 7 joined with socket ID: uLjMHP8RqWjjphi_AAAP
+[2025-03-05T10:46:49.262Z] User 7 disconnected
+[2025-03-05T10:46:49.715Z] User 7 joined with socket ID: o09uwQZ3W42vwjl6AAAR
+[2025-03-05T10:47:40.020Z] User 7 disconnected
+[2025-03-05T10:47:41.315Z] User 7 joined with socket ID: Ay5DYchO0ay9V8VtAAAT
+[2025-03-05T10:47:51.155Z] User 7 disconnected
+[2025-03-05T10:47:59.078Z] User 5 disconnected
+[2025-03-05T10:48:31.518Z] User 1 joined with socket ID: 4ixjXSpd6CY7kHKoAAAV
+[2025-03-05T10:48:57.482Z] User 2 joined with socket ID: PbP-yq8ij-0hdOKIAAAX
+[2025-03-05T10:49:06.257Z] User 1 disconnected
+[2025-03-05T10:49:07.101Z] User 1 joined with socket ID: rXDrDDPi2jmhV_MrAAAZ
+[2025-03-05T10:49:15.898Z] Received message: {"sender_id":1,"receiver_id":2,"message":"Hi ashwin"}
+[2025-03-05T10:49:15.910Z] Message saved to DB: ID 1
+[2025-03-05T10:49:15.912Z] Sending message to user 2 (Socket: PbP-yq8ij-0hdOKIAAAX)
+[2025-03-05T10:49:44.220Z] User 2 disconnected
+[2025-03-05T10:49:44.907Z] User 2 joined with socket ID: EJ5SldZ-5IuokCc4AAAb
+[2025-03-05T10:49:50.051Z] Received message: {"sender_id":2,"receiver_id":1,"message":"hwllo"}
+[2025-03-05T10:49:50.067Z] Message saved to DB: ID 2
+[2025-03-05T10:49:50.069Z] Sending message to user 1 (Socket: rXDrDDPi2jmhV_MrAAAZ)
+[2025-03-05T10:54:18.069Z] User 1 disconnected
+[2025-03-05T10:54:18.078Z] User 2 disconnected
+[2025-03-05T10:59:25.191Z] User 2 joined with socket ID: rFHulDzHlSqFwXxzAAAh
+[2025-03-05T11:00:03.117Z] User 2 disconnected
+[2025-03-05T11:00:04.219Z] User 2 joined with socket ID: 6fxSZRFCLlkbzcMiAAAj
+[2025-03-05T11:06:41.898Z] User 2 disconnected
+[2025-03-05T11:06:42.985Z] User 2 joined with socket ID: CRt1ZDdzFUhP1HZ4AAAl
+[2025-03-05T11:06:50.428Z] Received message: {"sender_id":2,"receiver_id":1,"message":"hhhi"}
+[2025-03-05T11:06:50.441Z] Message saved to DB: ID 3
+[2025-03-05T11:06:50.443Z] User 1 is not online
+[2025-03-05T11:06:57.505Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadaad"}
+[2025-03-05T11:06:57.520Z] Message saved to DB: ID 4
+[2025-03-05T11:06:57.522Z] Sending message to user 2 (Socket: CRt1ZDdzFUhP1HZ4AAAl)
+[2025-03-05T11:09:02.667Z] Socket.IO server running on port 3000
+[2025-03-05T11:09:02.693Z] Connected to MySQL Database
+[2025-03-05T11:09:07.588Z] User 1 joined with socket ID: cmYAPggAVgwW0CxRAAAF
+[2025-03-05T11:09:13.622Z] User 2 joined with socket ID: l3WIuWFEblhxF0wsAAAH
+[2025-03-05T11:09:23.216Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadada"}
+[2025-03-05T11:09:23.229Z] Message saved to DB: ID 5
+[2025-03-05T11:09:23.231Z] Sending message to user 2 (Socket: l3WIuWFEblhxF0wsAAAH)
+[2025-03-05T11:12:16.261Z] User 2 disconnected
+[2025-03-05T11:12:17.238Z] User 2 joined with socket ID: tqD6A5fmneYbRp7kAAAJ
+[2025-03-05T11:13:55.458Z] User 1 disconnected
+[2025-03-05T11:13:56.615Z] User 1 joined with socket ID: Xc-f1rpQoTjh6mqNAAAL
+[2025-03-05T11:13:58.421Z] Marked 2 messages as read
+[2025-03-05T11:14:05.437Z] Received message: {"sender_id":1,"receiver_id":2,"message":"hhhhhh"}
+[2025-03-05T11:14:05.452Z] Message saved to DB: ID 6
+[2025-03-05T11:14:05.457Z] Sending message to user 2 (Socket: tqD6A5fmneYbRp7kAAAJ)
+[2025-03-05T11:14:11.568Z] User 2 disconnected
+[2025-03-05T11:14:12.463Z] User 2 joined with socket ID: zIsnunz5D8dKGqF0AAAN
+[2025-03-05T11:14:14.180Z] Marked 4 messages as read
+[2025-03-05T11:14:19.020Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadadada"}
+[2025-03-05T11:14:19.033Z] Message saved to DB: ID 7
+[2025-03-05T11:14:19.035Z] Sending message to user 1 (Socket: Xc-f1rpQoTjh6mqNAAAL)
+[2025-03-05T11:14:19.050Z] Marked 1 messages as read
+[2025-03-05T11:14:25.163Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sss"}
+[2025-03-05T11:14:25.177Z] Message saved to DB: ID 8
+[2025-03-05T11:14:25.181Z] Sending message to user 2 (Socket: zIsnunz5D8dKGqF0AAAN)
+[2025-03-05T11:14:25.195Z] Marked 1 messages as read
+[2025-03-05T11:14:56.883Z] User 1 disconnected
+[2025-03-05T11:14:58.411Z] User 1 joined with socket ID: C4mBibbpjbSimGJAAAAP
+[2025-03-05T11:16:16.723Z] Marked 0 messages as read
+[2025-03-05T11:16:21.735Z] Marked 0 messages as read
+[2025-03-05T11:18:05.380Z] User 1 disconnected
+[2025-03-05T11:18:06.265Z] User 1 joined with socket ID: sWzvb7NNneFiYbpkAAAR
+[2025-03-05T11:18:18.612Z] Marked 0 messages as read
+[2025-03-05T11:18:35.916Z] User 1 disconnected
+[2025-03-05T11:18:36.594Z] User 1 joined with socket ID: xHn6a77d-Uh8n3gUAAAT
+[2025-03-05T11:18:38.323Z] Marked 0 messages as read
+[2025-03-05T11:18:40.395Z] Marked 0 messages as read
+[2025-03-05T11:18:40.965Z] Marked 0 messages as read
+[2025-03-05T11:18:41.423Z] Marked 0 messages as read
+[2025-03-05T11:18:43.142Z] Marked 0 messages as read
+[2025-03-05T11:18:53.269Z] User 1 disconnected
+[2025-03-05T11:18:53.817Z] User 1 joined with socket ID: 2SwLyUngdp-GU2_dAAAV
+[2025-03-05T11:18:55.295Z] Marked 0 messages as read
+[2025-03-05T11:23:53.555Z] User 2 disconnected
+[2025-03-05T11:24:09.250Z] User 1 joined with socket ID: tRi2MVdu_ukSuU7XAAAX
+[2025-03-05T11:24:45.378Z] User 2 joined with socket ID: MPp5UA_ga1SnQ3ojAAAZ
+[2025-03-05T11:24:48.059Z] Marked 0 messages as read
+[2025-03-05T11:24:53.413Z] User 1 disconnected
+[2025-03-05T11:24:53.997Z] User 1 joined with socket ID: 9Pnx5sGpa6JXVT3dAAAb
+[2025-03-05T11:24:56.096Z] Marked 0 messages as read
+[2025-03-05T11:25:02.783Z] Received message: {"sender_id":1,"receiver_id":2,"message":"hello"}
+[2025-03-05T11:25:02.833Z] Message saved to DB: ID 1
+[2025-03-05T11:25:02.838Z] Sending message to user 2 (Socket: MPp5UA_ga1SnQ3ojAAAZ)
+[2025-03-05T11:25:02.916Z] Marked 1 messages as read
+[2025-03-05T11:26:42.836Z] Received message: {"sender_id":2,"receiver_id":1,"message":"hi"}
+[2025-03-05T11:26:42.853Z] Message saved to DB: ID 2
+[2025-03-05T11:26:42.855Z] Sending message to user 1 (Socket: 9Pnx5sGpa6JXVT3dAAAb)
+[2025-03-05T11:26:42.876Z] Marked 1 messages as read
+[2025-03-05T11:27:50.190Z] User 2 disconnected
+[2025-03-05T11:27:51.165Z] User 2 joined with socket ID: 3NDJDXv2w8LugvKBAAAd
+[2025-03-05T11:27:52.824Z] Marked 0 messages as read
+[2025-03-05T11:28:01.349Z] Received message: {"sender_id":2,"receiver_id":1,"message":"ssss"}
+[2025-03-05T11:28:01.361Z] Message saved to DB: ID 3
+[2025-03-05T11:28:01.364Z] Sending message to user 1 (Socket: 9Pnx5sGpa6JXVT3dAAAb)
+[2025-03-05T11:28:01.377Z] Marked 1 messages as read
+[2025-03-05T11:28:08.024Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadadsad"}
+[2025-03-05T11:28:08.037Z] Message saved to DB: ID 4
+[2025-03-05T11:28:08.039Z] Sending message to user 2 (Socket: 3NDJDXv2w8LugvKBAAAd)
+[2025-03-05T11:28:08.050Z] Marked 1 messages as read
+[2025-03-05T11:33:18.856Z] User 1 disconnected
+[2025-03-05T11:33:19.811Z] User 1 joined with socket ID: 5ibZAiNO0mO4Uu-cAAAf
+[2025-03-05T11:36:54.205Z] User 1 disconnected
+[2025-03-05T11:36:55.032Z] User 1 joined with socket ID: Gf2Dcw9QOQwc8RqSAAAh
+[2025-03-05T11:36:56.992Z] Marked 0 messages as read
+[2025-03-05T11:37:16.105Z] User 1 disconnected
+[2025-03-05T11:37:16.726Z] User 1 joined with socket ID: UPrl4rzkdo5xmRazAAAj
+[2025-03-05T11:37:18.889Z] Marked 0 messages as read
+[2025-03-05T11:37:47.427Z] User 1 disconnected
+[2025-03-05T11:37:49.745Z] User 1 joined with socket ID: hIRdq2eDFYtfb6gEAAAl
+[2025-03-05T11:37:51.623Z] Marked 0 messages as read
+[2025-03-05T11:37:54.457Z] Received message: {"sender_id":1,"receiver_id":2,"message":"asdadad"}
+[2025-03-05T11:37:54.470Z] Message saved to DB: ID 5
+[2025-03-05T11:37:54.474Z] Sending message to user 2 (Socket: 3NDJDXv2w8LugvKBAAAd)
+[2025-03-05T11:37:54.490Z] Marked 1 messages as read
+[2025-03-05T11:38:50.448Z] User 1 disconnected
+[2025-03-05T11:38:51.021Z] User 1 joined with socket ID: ST7q41aqDI0Y9fMAAAAn
+[2025-03-05T11:38:52.667Z] Marked 0 messages as read
+[2025-03-05T11:45:35.724Z] User 2 disconnected
+[2025-03-05T11:45:37.073Z] User 2 joined with socket ID: mBKJfJNbuGcOIzUVAAAp
+[2025-03-05T11:45:40.625Z] User 1 disconnected
+[2025-03-05T11:45:41.330Z] User 1 joined with socket ID: crNSbZKPavjBQazQAAAr
+[2025-03-05T11:45:50.296Z] Marked 0 messages as read
+[2025-03-05T11:45:52.083Z] Received message: {"sender_id":1,"receiver_id":2,"message":"asasas"}
+[2025-03-05T11:45:52.090Z] Message saved to DB: ID 6
+[2025-03-05T11:45:52.092Z] Sending message to user 2 (Socket: mBKJfJNbuGcOIzUVAAAp)
+[2025-03-05T11:45:57.509Z] Marked 1 messages as read
+[2025-03-05T11:45:59.184Z] Received message: {"sender_id":2,"receiver_id":1,"message":"asasa"}
+[2025-03-05T11:45:59.190Z] Message saved to DB: ID 7
+[2025-03-05T11:45:59.191Z] Sending message to user 1 (Socket: crNSbZKPavjBQazQAAAr)
+[2025-03-05T11:45:59.211Z] Marked 1 messages as read
+[2025-03-05T11:47:50.727Z] Socket.IO server running on port 3000
+[2025-03-05T11:47:50.758Z] Connected to MySQL Database
+[2025-03-05T11:47:54.891Z] User 2 joined with socket ID: Q_lkNTgcC7OFXQOKAAAF
+[2025-03-05T11:47:58.026Z] User 1 joined with socket ID: P2psTlNW7Jng9cImAAAH
+[2025-03-05T11:48:05.244Z] Received message: {"sender_id":1,"receiver_id":2,"message":"hii"}
+[2025-03-05T11:48:05.263Z] Message saved to DB: ID 8
+[2025-03-05T11:48:05.284Z] Notification created for user 2
+[2025-03-05T11:48:05.286Z] Sending message to user 2 (Socket: Q_lkNTgcC7OFXQOKAAAF)
+[2025-03-05T11:48:48.272Z] User 2 joined with socket ID: JDbjMsgBwHUcpjtSAAAJ
+[2025-03-05T11:48:51.375Z] Marked 1 notifications as read
+[2025-03-05T11:48:51.384Z] Marked 0 notifications as read
+[2025-03-05T11:48:52.322Z] Marked 0 notifications as read
+[2025-03-05T11:48:52.324Z] Marked 0 notifications as read
+[2025-03-05T11:48:57.931Z] Received message: {"sender_id":1,"receiver_id":2,"message":"retre"}
+[2025-03-05T11:48:57.938Z] Message saved to DB: ID 9
+[2025-03-05T11:48:57.946Z] Notification created for user 2
+[2025-03-05T11:48:57.948Z] Sending message to user 2 (Socket: JDbjMsgBwHUcpjtSAAAJ)
+[2025-03-05T11:49:01.406Z] Marked 1 notifications as read
+[2025-03-05T11:49:01.411Z] Marked 0 notifications as read
+[2025-03-05T11:49:34.010Z] User 1 joined with socket ID: f2Q0gjJ6jFlu7uydAAAL
+[2025-03-05T11:49:42.404Z] Received message: {"sender_id":2,"receiver_id":1,"message":"etretet"}
+[2025-03-05T11:49:42.418Z] Message saved to DB: ID 10
+[2025-03-05T11:49:42.424Z] Notification created for user 1
+[2025-03-05T11:49:42.426Z] Sending message to user 1 (Socket: f2Q0gjJ6jFlu7uydAAAL)
+[2025-03-05T11:52:07.546Z] Received message: {"sender_id":1,"receiver_id":2,"message":"ewrwrew"}
+[2025-03-05T11:52:07.560Z] Message saved to DB: ID 11
+[2025-03-05T11:52:07.567Z] Notification created for user 2
+[2025-03-05T11:52:07.572Z] Sending message to user 2 (Socket: JDbjMsgBwHUcpjtSAAAJ)
+[2025-03-05T11:53:26.189Z] User 2 joined with socket ID: WV_NahxXysqoD4h9AAAN
+[2025-03-05T11:53:31.270Z] User 1 joined with socket ID: xhDbxc9BH6tum6BWAAAP
+[2025-03-05T11:53:32.987Z] Marked 1 notifications as read
+[2025-03-05T11:53:32.997Z] Marked 0 notifications as read
+[2025-03-05T11:53:37.844Z] Marked 1 notifications as read
+[2025-03-05T11:53:37.846Z] Marked 0 notifications as read
+[2025-03-05T11:53:52.355Z] Received message: {"sender_id":1,"receiver_id":2,"message":"Hi this is a test message"}
+[2025-03-05T11:53:52.361Z] Message saved to DB: ID 12
+[2025-03-05T11:53:52.367Z] Notification created for user 2
+[2025-03-05T11:53:52.368Z] Sending message to user 2 (Socket: WV_NahxXysqoD4h9AAAN)
+[2025-03-05T11:53:58.478Z] Received message: {"sender_id":2,"receiver_id":1,"message":"Hi this is a test message  22"}
+[2025-03-05T11:53:58.492Z] Message saved to DB: ID 13
+[2025-03-05T11:53:58.501Z] Notification created for user 1
+[2025-03-05T11:53:58.504Z] Sending message to user 1 (Socket: xhDbxc9BH6tum6BWAAAP)
+[2025-03-05T11:54:12.344Z] Marked 1 notifications as read
+[2025-03-05T11:54:12.349Z] Marked 0 notifications as read
+[2025-03-05T11:55:21.632Z] User 1 joined with socket ID: jsS9LnZj4m351wjLAAAR
+[2025-03-05T11:55:26.386Z] User 2 joined with socket ID: dGmRI5G0uAsmbL8IAAAT
+[2025-03-05T11:55:30.928Z] Received message: {"sender_id":2,"receiver_id":1,"message":"dasdadad"}
+[2025-03-05T11:55:30.944Z] Message saved to DB: ID 14
+[2025-03-05T11:55:30.954Z] Notification created for user 1
+[2025-03-05T11:55:30.956Z] Sending message to user 1 (Socket: jsS9LnZj4m351wjLAAAR)
+[2025-03-05T12:01:31.030Z] Socket.IO server running on port 3000
+[2025-03-05T12:01:31.066Z] Connected to MySQL Database
+[2025-03-05T12:01:34.301Z] User 1 joined with socket ID: NNYoXYBOBUbEK7IEAAAF
+[2025-03-05T12:01:37.699Z] User 2 joined with socket ID: dId0S-qTdqYCiz8oAAAH
+[2025-03-05T12:01:39.751Z] Marked 4 messages as read
+[2025-03-05T12:01:43.166Z] Marked 3 messages as read
+[2025-03-05T12:01:48.344Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadaad"}
+[2025-03-05T12:01:48.362Z] Message saved to DB: ID 15
+[2025-03-05T12:01:48.378Z] Notification created for user 1
+[2025-03-05T12:01:48.380Z] Sending message to user 1 (Socket: NNYoXYBOBUbEK7IEAAAF)
+[2025-03-05T12:01:48.399Z] Marked 1 messages as read
+[2025-03-05T12:04:48.586Z] User 2 joined with socket ID: kTyXkDLPOvNyeGDDAAAJ
+[2025-03-05T12:04:52.999Z] Marked 0 messages as read
+[2025-03-05T12:05:40.064Z] User 2 joined with socket ID: INs2Z9MkfHLRTsUVAAAL
+[2025-03-05T12:05:42.437Z] Marked 0 messages as read
+[2025-03-05T12:05:43.202Z] Marked 1 notifications as read
+[2025-03-05T12:05:43.207Z] Marked 0 notifications as read
+[2025-03-05T12:05:43.604Z] Marked 0 messages as read
+[2025-03-05T12:05:43.952Z] Marked 0 messages as read
+[2025-03-05T12:06:50.089Z] User 1 joined with socket ID: 058_SVv2tuimGIqdAAAN
+[2025-03-05T12:06:53.971Z] Marked 2 notifications as read
+[2025-03-05T12:06:53.982Z] Marked 0 notifications as read
+[2025-03-05T12:06:54.464Z] Marked 0 messages as read
+[2025-03-05T12:06:54.822Z] Marked 0 messages as read
+[2025-03-05T12:06:59.685Z] User 1 joined with socket ID: XVkS49LVPTbWgzirAAAP
+[2025-03-05T12:07:01.976Z] Marked 0 messages as read
+[2025-03-05T12:07:06.673Z] User 2 joined with socket ID: KHtfiZJ4rmF4-aVBAAAR
+[2025-03-05T12:07:09.506Z] Marked 0 messages as read
+[2025-03-05T12:07:11.207Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sdfsfsf"}
+[2025-03-05T12:07:11.222Z] Message saved to DB: ID 16
+[2025-03-05T12:07:11.235Z] Notification created for user 1
+[2025-03-05T12:07:11.238Z] Sending message to user 1 (Socket: XVkS49LVPTbWgzirAAAP)
+[2025-03-05T12:07:11.261Z] Marked 1 messages as read
+[2025-03-05T12:07:37.489Z] User 1 joined with socket ID: R7R1K7J7b0YeVhDyAAAT
+[2025-03-05T12:07:40.298Z] Marked 1 notifications as read
+[2025-03-05T12:07:40.300Z] Marked 0 notifications as read
+[2025-03-05T12:07:40.881Z] Marked 0 messages as read
+[2025-03-05T12:07:41.247Z] Marked 0 messages as read
+[2025-03-05T12:07:45.158Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sdad"}
+[2025-03-05T12:07:45.172Z] Message saved to DB: ID 17
+[2025-03-05T12:07:45.180Z] Notification created for user 2
+[2025-03-05T12:07:45.185Z] Sending message to user 2 (Socket: KHtfiZJ4rmF4-aVBAAAR)
+[2025-03-05T12:07:45.208Z] Marked 1 messages as read
+[2025-03-05T12:07:48.340Z] User 2 joined with socket ID: 2MXq5zndTlSZvkXyAAAV
+[2025-03-05T12:07:50.338Z] Marked 1 notifications as read
+[2025-03-05T12:07:50.344Z] Marked 0 notifications as read
+[2025-03-05T12:07:50.857Z] Marked 0 messages as read
+[2025-03-05T12:07:51.261Z] Marked 0 messages as read
+[2025-03-05T12:07:53.686Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sdaadd"}
+[2025-03-05T12:07:53.692Z] Message saved to DB: ID 18
+[2025-03-05T12:07:53.698Z] Notification created for user 1
+[2025-03-05T12:07:53.699Z] Sending message to user 1 (Socket: R7R1K7J7b0YeVhDyAAAT)
+[2025-03-05T12:07:53.718Z] Marked 1 messages as read
+[2025-03-05T12:08:49.394Z] User 1 joined with socket ID: ZatjghKsZUM0gJOYAAAX
+[2025-03-05T12:08:52.590Z] Marked 1 notifications as read
+[2025-03-05T12:08:52.607Z] Marked 0 notifications as read
+[2025-03-05T12:08:53.105Z] Marked 0 messages as read
+[2025-03-05T12:08:53.553Z] Marked 0 messages as read
+[2025-03-05T12:08:58.285Z] User 2 joined with socket ID: Dy59KpmfO_AHfVekAAAZ
+[2025-03-05T12:09:01.566Z] Marked 0 messages as read
+[2025-03-05T12:09:03.391Z] Received message: {"sender_id":2,"receiver_id":1,"message":"asdad"}
+[2025-03-05T12:09:03.405Z] Message saved to DB: ID 19
+[2025-03-05T12:09:03.412Z] Notification created for user 1
+[2025-03-05T12:09:03.414Z] Sending message to user 1 (Socket: ZatjghKsZUM0gJOYAAAX)
+[2025-03-05T12:09:03.427Z] Marked 1 messages as read
+[2025-03-05T12:09:06.966Z] User 1 joined with socket ID: LpUH_3abYfKjTNIaAAAb
+[2025-03-05T12:09:09.816Z] Marked 0 messages as read
+[2025-03-05T12:09:10.993Z] Marked 1 notifications as read
+[2025-03-05T12:09:10.996Z] Marked 0 notifications as read
+[2025-03-05T12:09:11.372Z] Marked 0 messages as read
+[2025-03-05T12:09:11.706Z] Marked 0 messages as read
+[2025-03-05T12:09:34.343Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadad"}
+[2025-03-05T12:09:34.348Z] Message saved to DB: ID 20
+[2025-03-05T12:09:34.358Z] Notification created for user 1
+[2025-03-05T12:09:34.360Z] Sending message to user 1 (Socket: LpUH_3abYfKjTNIaAAAb)
+[2025-03-05T12:09:34.378Z] Marked 1 messages as read
+[2025-03-05T12:09:36.904Z] Marked 1 notifications as read
+[2025-03-05T12:09:36.907Z] Marked 0 notifications as read
+[2025-03-05T12:09:37.279Z] Marked 0 messages as read
+[2025-03-05T12:09:37.619Z] Marked 0 messages as read
+[2025-03-05T12:09:41.017Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadad"}
+[2025-03-05T12:09:41.029Z] Message saved to DB: ID 21
+[2025-03-05T12:09:41.037Z] Notification created for user 1
+[2025-03-05T12:09:41.043Z] Sending message to user 1 (Socket: LpUH_3abYfKjTNIaAAAb)
+[2025-03-05T12:09:41.056Z] Marked 1 messages as read
+[2025-03-05T12:13:14.542Z] User 2 joined with socket ID: ijkw0h7uexLcsIqgAAAd
+[2025-03-05T12:13:20.317Z] User 1 joined with socket ID: Vw0y94_MJrfHGt0xAAAf
+[2025-03-05T12:13:21.913Z] Marked 0 messages as read
+[2025-03-05T12:13:24.066Z] Received message: {"sender_id":1,"receiver_id":2,"message":"asdada"}
+[2025-03-05T12:13:24.078Z] Message saved to DB: ID 22
+[2025-03-05T12:13:24.084Z] Notification created for user 2
+[2025-03-05T12:13:24.086Z] Sending message to user 2 (Socket: ijkw0h7uexLcsIqgAAAd)
+[2025-03-05T12:13:27.199Z] Marked 1 notifications as read
+[2025-03-05T12:13:27.204Z] Marked 0 notifications as read
+[2025-03-05T12:13:27.591Z] Marked 1 messages as read
+[2025-03-05T12:13:27.945Z] Marked 0 messages as read
+[2025-03-05T12:13:31.464Z] Marked 1 notifications as read
+[2025-03-05T12:13:31.467Z] Marked 0 notifications as read
+[2025-03-05T12:13:31.865Z] Marked 0 messages as read
+[2025-03-05T12:13:32.262Z] Marked 0 messages as read
+[2025-03-05T12:13:39.572Z] User 2 joined with socket ID: 94u3RhKVWkqsMWDYAAAh
+[2025-03-05T12:13:41.567Z] Marked 0 messages as read
+[2025-03-05T12:16:31.446Z] Marked 0 messages as read
+[2025-03-05T12:16:39.641Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadad"}
+[2025-03-05T12:16:39.654Z] Message saved to DB: ID 23
+[2025-03-05T12:16:39.661Z] Notification created for user 1
+[2025-03-05T12:16:39.663Z] Sending message to user 1 (Socket: Vw0y94_MJrfHGt0xAAAf)
+[2025-03-05T12:16:39.672Z] Marked 1 messages as read
+[2025-03-05T12:16:42.769Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sada"}
+[2025-03-05T12:16:42.773Z] Message saved to DB: ID 24
+[2025-03-05T12:16:42.779Z] Notification created for user 1
+[2025-03-05T12:16:42.781Z] Sending message to user 1 (Socket: Vw0y94_MJrfHGt0xAAAf)
+[2025-03-05T12:16:42.791Z] Marked 1 messages as read
+[2025-03-05T12:16:45.722Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sdadsadsdada"}
+[2025-03-05T12:16:45.728Z] Message saved to DB: ID 25
+[2025-03-05T12:16:45.735Z] Notification created for user 1
+[2025-03-05T12:16:45.737Z] Sending message to user 1 (Socket: Vw0y94_MJrfHGt0xAAAf)
+[2025-03-05T12:16:45.751Z] Marked 1 messages as read
+[2025-03-05T12:16:48.751Z] User 2 joined with socket ID: HgRm4cQENov9ur7AAAAj
+[2025-03-05T12:16:57.261Z] Marked 3 notifications as read
+[2025-03-05T12:16:57.263Z] Marked 0 notifications as read
+[2025-03-05T12:16:57.532Z] Marked 0 messages as read
+[2025-03-05T12:16:57.810Z] Marked 0 messages as read
+[2025-03-05T12:17:03.069Z] User 1 joined with socket ID: E_IcrvW5MYSj3XPYAAAl
+[2025-03-05T12:17:05.967Z] Marked 0 messages as read
+[2025-03-05T12:25:21.117Z] User 2 joined with socket ID: _x1Pi5ksJDb2klnYAAAn
+[2025-03-05T12:25:31.185Z] User 1 joined with socket ID: MHfcAwgsKrCbBdYQAAAp
+[2025-03-05T12:25:35.889Z] Marked 0 messages as read
+[2025-03-05T12:25:39.194Z] Marked 0 messages as read
+[2025-03-05T12:25:43.445Z] Received message: {"sender_id":1,"receiver_id":2,"message":"Hello"}
+[2025-03-05T12:25:43.457Z] Message saved to DB: ID 1
+[2025-03-05T12:25:43.460Z] Notification created for user 2
+[2025-03-05T12:25:43.461Z] Sending message to user 2 (Socket: _x1Pi5ksJDb2klnYAAAn)
+[2025-03-05T12:25:43.498Z] Marked 1 messages as read
+[2025-03-05T12:25:53.863Z] Received message: {"sender_id":2,"receiver_id":1,"message":"Hiiii"}
+[2025-03-05T12:25:53.874Z] Message saved to DB: ID 2
+[2025-03-05T12:25:53.879Z] Notification created for user 1
+[2025-03-05T12:25:53.880Z] Sending message to user 1 (Socket: MHfcAwgsKrCbBdYQAAAp)
+[2025-03-05T12:25:53.887Z] Marked 1 messages as read
+[2025-03-05T12:26:09.277Z] Marked 0 messages as read
+[2025-03-05T12:29:37.935Z] Received message: {"sender_id":1,"receiver_id":2,"message":"jfjf"}
+[2025-03-05T12:29:37.938Z] Message saved to DB: ID 3
+[2025-03-05T12:29:37.943Z] Notification created for user 2
+[2025-03-05T12:29:37.944Z] Sending message to user 2 (Socket: _x1Pi5ksJDb2klnYAAAn)
+[2025-03-05T12:29:37.952Z] Marked 1 messages as read
+[2025-03-05T12:29:44.782Z] Received message: {"sender_id":2,"receiver_id":1,"message":"ghfhgf"}
+[2025-03-05T12:29:44.785Z] Message saved to DB: ID 4
+[2025-03-05T12:29:44.788Z] Notification created for user 1
+[2025-03-05T12:29:44.789Z] Sending message to user 1 (Socket: MHfcAwgsKrCbBdYQAAAp)
+[2025-03-05T12:29:44.798Z] Marked 1 messages as read
+[2025-03-05T12:31:36.908Z] User 2 joined with socket ID: xvP-u84xH4OkmoYAAAAr
+[2025-03-05T12:31:40.017Z] Marked 2 notifications as read
+[2025-03-05T12:31:40.019Z] Marked 0 notifications as read
+[2025-03-05T12:31:40.432Z] Marked 0 messages as read
+[2025-03-05T12:31:40.742Z] Marked 0 messages as read
+[2025-03-05T12:32:45.086Z] User 1 joined with socket ID: uOwHgPqknUu0pACqAAAt
+[2025-03-05T12:32:47.269Z] Marked 0 messages as read
+[2025-03-05T12:33:10.594Z] User 1 joined with socket ID: nEG9VcSaataweIrLAAAv
+[2025-03-05T12:33:12.085Z] Marked 0 messages as read
+[2025-03-05T12:33:59.359Z] User 1 joined with socket ID: n91Oqc6EXCVldig-AAAx
+[2025-03-05T12:34:00.955Z] Marked 0 messages as read
+[2025-03-05T12:35:01.111Z] User 1 joined with socket ID: JHToxdFJpYhC5mUgAAAz
+[2025-03-05T12:35:02.686Z] Marked 0 messages as read
+[2025-03-05T12:35:22.350Z] Marked 0 messages as read
+[2025-03-05T12:43:42.416Z] Socket.IO server running on port 3000
+[2025-03-05T12:43:42.426Z] Connected to MySQL Database
+[2025-03-05T12:43:49.961Z] User 2 joined with socket ID: YSNq0H2EUjX7CG6_AAAF
+[2025-03-05T12:44:10.909Z] User 2 joined with socket ID: RJ8351nBClabqf4rAAAH
+[2025-03-05T12:44:12.697Z] Marked 0 messages as read
+[2025-03-05T12:44:17.440Z] User 1 joined with socket ID: vxasHoOTpJSbqkwtAAAJ
+[2025-03-05T12:44:18.632Z] Marked 0 messages as read
+[2025-03-05T12:44:36.549Z] User 1 joined with socket ID: YjfoYC9J4ztCx35jAAAL
+[2025-03-05T12:45:59.643Z] User 1 joined with socket ID: klP9lcmoadfXpBRpAAAN
+[2025-03-05T12:46:00.792Z] Marked 0 messages as read
+[2025-03-05T12:46:03.113Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sdasda"}
+[2025-03-05T12:50:33.104Z] Socket.IO server running on port 3000
+[2025-03-05T12:50:33.116Z] Connected to MySQL Database
+[2025-03-05T12:50:37.185Z] User 1 joined with socket ID: UdncqMjq6Cf-iRtQAAAD
+[2025-03-05T12:50:43.837Z] User 2 joined with socket ID: QD_eq-EOixc7vI4gAAAH
+[2025-03-05T12:50:45.262Z] Marked 1 messages as read
+[2025-03-05T12:50:48.415Z] Marked 0 messages as read
+[2025-03-05T12:50:51.138Z] Received message: {"sender_id":1,"receiver_id":2,"message":"wqeeq"}
+[2025-03-05T12:50:51.146Z] Error creating notification: Error: Column 'message_id' cannot be null
+[2025-03-05T12:52:13.167Z] User 1 joined with socket ID: aZuz6wAZSQOYul32AAAJ
+[2025-03-05T12:52:14.453Z] Marked 0 messages as read
+[2025-03-05T12:52:16.070Z] Received message: {"sender_id":1,"receiver_id":2,"message":"asdadasd"}
+[2025-03-05T12:52:16.075Z] Error creating notification: Error: Column 'message_id' cannot be null
+[2025-03-05T12:52:22.288Z] Socket.IO server running on port 3000
+[2025-03-05T12:52:22.309Z] Connected to MySQL Database
+[2025-03-05T12:52:24.714Z] User 1 joined with socket ID: FQbetgtV1mPeAelPAAAF
+[2025-03-05T12:52:25.905Z] Marked 0 messages as read
+[2025-03-05T12:52:27.311Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sdsfsdf"}
+[2025-03-05T12:52:27.316Z] Error creating notification: Error: Column 'message_id' cannot be null
+[2025-03-05T12:53:48.264Z] User 1 joined with socket ID: TTSKNmWlpfRDcH4tAAAH
+[2025-03-05T12:53:49.978Z] Marked 0 messages as read
+[2025-03-05T12:53:52.336Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadda","message_id":5}
+[2025-03-05T12:53:52.340Z] Notification created for user 2
+[2025-03-05T12:53:52.341Z] User 2 is not online
+[2025-03-05T12:54:02.675Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadadsad","message_id":6}
+[2025-03-05T12:54:02.680Z] Notification created for user 2
+[2025-03-05T12:54:02.681Z] User 2 is not online
+[2025-03-05T12:54:06.641Z] User 2 joined with socket ID: gZJ9CxZr0kVAz127AAAJ
+[2025-03-05T12:54:07.897Z] Marked 5 messages as read
+[2025-03-05T12:54:11.836Z] Received message: {"sender_id":1,"receiver_id":2,"message":"assadasd","message_id":7}
+[2025-03-05T12:54:11.844Z] Notification created for user 2
+[2025-03-05T12:54:11.845Z] Sending message to user 2 (Socket: gZJ9CxZr0kVAz127AAAJ)
+[2025-03-05T12:54:11.856Z] Marked 1 messages as read
+[2025-03-05T12:54:14.970Z] Marked 3 notifications as read
+[2025-03-05T12:54:14.974Z] Marked 0 notifications as read
+[2025-03-05T12:54:15.246Z] Marked 0 messages as read
+[2025-03-05T12:54:15.544Z] Marked 0 messages as read
+[2025-03-05T12:56:19.725Z] Received message: {"sender_id":2,"receiver_id":1,"message":"No message","message_id":8}
+[2025-03-05T12:56:19.730Z] Notification created for user 1
+[2025-03-05T12:56:19.731Z] Sending message to user 1 (Socket: TTSKNmWlpfRDcH4tAAAH)
+[2025-03-05T12:56:19.740Z] Marked 1 messages as read
+[2025-03-05T12:56:21.620Z] Received message: {"sender_id":2,"receiver_id":1,"message":"No message","message_id":9}
+[2025-03-05T12:56:21.627Z] Notification created for user 1
+[2025-03-05T12:56:21.628Z] Sending message to user 1 (Socket: TTSKNmWlpfRDcH4tAAAH)
+[2025-03-05T12:56:21.637Z] Marked 1 messages as read
+[2025-03-05T12:56:22.691Z] Received message: {"sender_id":2,"receiver_id":1,"message":"No message","message_id":10}
+[2025-03-05T12:56:22.696Z] Notification created for user 1
+[2025-03-05T12:56:22.697Z] Sending message to user 1 (Socket: TTSKNmWlpfRDcH4tAAAH)
+[2025-03-05T12:56:22.705Z] Marked 1 messages as read
+[2025-03-05T12:58:04.377Z] User 2 joined with socket ID: dAWkl_WehE2Y6LyyAAAL
+[2025-03-05T12:58:06.116Z] Marked 0 messages as read
+[2025-03-05T12:58:12.504Z] Received message: {"sender_id":2,"receiver_id":1,"message":"No message","message_id":11}
+[2025-03-05T12:58:12.510Z] Notification created for user 1
+[2025-03-05T12:58:12.510Z] Sending message to user 1 (Socket: TTSKNmWlpfRDcH4tAAAH)
+[2025-03-05T12:58:12.521Z] Marked 1 messages as read
+[2025-03-05T13:04:35.878Z] User 2 joined with socket ID: nnTFw9X2-ZG7erQKAAAN
+[2025-03-05T13:04:37.224Z] Marked 0 messages as read
+[2025-03-05T13:05:49.801Z] User 1 joined with socket ID: DPnI7XanF6dhlK6BAAAP
+[2025-03-05T13:06:12.696Z] User 2 joined with socket ID: AyQFUAgYisVjSzVsAAAR
+[2025-03-05T13:06:14.966Z] User 1 joined with socket ID: KWIicwdUTDv6kG84AAAT
+[2025-03-05T13:06:24.382Z] Marked 0 messages as read
+[2025-03-05T13:06:26.637Z] Marked 0 messages as read
+[2025-03-05T13:06:31.679Z] Received message: {"sender_id":2,"receiver_id":1,"message":"Heello","message_id":1}
+[2025-03-05T13:06:31.690Z] Notification created for user 1
+[2025-03-05T13:06:31.691Z] Sending message to user 1 (Socket: KWIicwdUTDv6kG84AAAT)
+[2025-03-05T13:06:31.706Z] Marked 1 messages as read
+[2025-03-05T13:06:37.247Z] Received message: {"sender_id":1,"receiver_id":2,"message":"Hii","message_id":2}
+[2025-03-05T13:06:37.253Z] Notification created for user 2
+[2025-03-05T13:06:37.253Z] Sending message to user 2 (Socket: AyQFUAgYisVjSzVsAAAR)
+[2025-03-05T13:06:37.259Z] Marked 1 messages as read
+[2025-03-05T13:08:14.864Z] User 2 joined with socket ID: 0lksq3nMYJ0tyyUmAAAV
+[2025-03-05T13:08:17.041Z] Marked 0 messages as read
+[2025-03-05T13:09:33.836Z] User 1 joined with socket ID: NJsB-eakblqHAQF0AAAX
+[2025-03-05T13:09:52.567Z] User 2 joined with socket ID: EtHX_zDEca3bSLkLAAAZ
+[2025-03-05T13:09:54.770Z] User 1 joined with socket ID: b46OD6opZrN81kWcAAAb
+[2025-03-05T13:09:55.919Z] Marked 0 messages as read
+[2025-03-05T13:09:58.079Z] Marked 0 messages as read
+[2025-03-05T13:10:01.994Z] Received message: {"sender_id":2,"receiver_id":1,"message":"Hi","message_id":1}
+[2025-03-05T13:10:01.998Z] Notification created for user 1
+[2025-03-05T13:10:01.999Z] Sending message to user 1 (Socket: b46OD6opZrN81kWcAAAb)
+[2025-03-05T13:10:02.006Z] Marked 1 messages as read
+[2025-03-05T13:10:05.129Z] Received message: {"sender_id":2,"receiver_id":1,"message":"","message_id":2}
+[2025-03-05T13:10:05.131Z] Error: Missing required fields - {"sender_id":2,"receiver_id":1,"message":"","message_id":2}
+[2025-03-05T13:10:20.019Z] User 1 joined with socket ID: TytKeP8okpMT4fe1AAAd
+[2025-03-05T13:10:21.131Z] Marked 1 messages as read
+[2025-03-05T13:13:13.144Z] User 1 joined with socket ID: xkXCxxI9FtQae68xAAAf
+[2025-03-05T13:13:14.554Z] Marked 0 messages as read
+[2025-03-05T13:14:16.605Z] User 2 joined with socket ID: tYJnPEMp1yALjfYpAAAh
+[2025-03-05T13:14:18.811Z] Marked 0 messages as read
+[2025-03-05T13:14:29.377Z] Received message: {"sender_id":2,"receiver_id":1,"message":"sadsa","message_id":3}
+[2025-03-05T13:14:29.381Z] Notification created for user 1
+[2025-03-05T13:14:29.382Z] Sending message to user 1 (Socket: xkXCxxI9FtQae68xAAAf)
+[2025-03-05T13:14:29.387Z] Marked 1 messages as read
+[2025-03-05T13:14:44.257Z] User 1 joined with socket ID: x2rxUPLgNNCyLdxHAAAj
+[2025-03-05T13:14:45.703Z] Marked 0 messages as read
+[2025-03-05T13:14:47.441Z] Received message: {"sender_id":1,"receiver_id":2,"message":"asdadad","message_id":4}
+[2025-03-05T13:14:47.446Z] Notification created for user 2
+[2025-03-05T13:14:47.447Z] Sending message to user 2 (Socket: tYJnPEMp1yALjfYpAAAh)
+[2025-03-05T13:14:47.456Z] Marked 1 messages as read
+[2025-03-05T13:14:49.436Z] Received message: {"sender_id":1,"receiver_id":2,"message":"sadad","message_id":5}
+[2025-03-05T13:14:49.441Z] Notification created for user 2
+[2025-03-05T13:14:49.442Z] Sending message to user 2 (Socket: tYJnPEMp1yALjfYpAAAh)
+[2025-03-05T13:14:49.452Z] Marked 1 messages as read
+[2025-03-05T13:16:08.843Z] User 1 joined with socket ID: qQzGXDiGA0XwHrGVAAAl
+[2025-03-05T13:16:10.152Z] Marked 0 messages as read
+[2025-03-05T13:16:12.978Z] Received message: {"sender_id":1,"receiver_id":2,"message":"dfssafsdsdf","message_id":6}
+[2025-03-05T13:16:12.983Z] Notification created for user 2
+[2025-03-05T13:16:12.984Z] Sending message to user 2 (Socket: tYJnPEMp1yALjfYpAAAh)
+[2025-03-05T13:16:12.991Z] Marked 1 messages as read
+[2025-03-05T13:20:06.796Z] User 1 joined with socket ID: SVzt5tYfEl-zRWrwAAAn
+[2025-03-05T13:20:08.249Z] Marked 0 messages as read
