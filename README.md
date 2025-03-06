@@ -5,7 +5,9 @@
 
  composer install
 
- php artisan db:seed
+update db env variables in .env
+
+ php artisan key:generate
 
  php artisan migrate --seed
 
